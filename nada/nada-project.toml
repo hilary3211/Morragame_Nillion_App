@@ -1,0 +1,8 @@
+name = "nada"
+version = "0.1.0"
+authors = [""]
+
+[[programs]]
+path = "src/Morragame.py"
+name = "Morragame"
+prime_size = 128
