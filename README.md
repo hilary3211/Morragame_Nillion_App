@@ -1,7 +1,7 @@
 ## MorraGame Nillion App (CNA)
 
-![How it works](./public/Morra1)
-![Example Demo](./public/Morra2)
+![How it works](./public/Morra1.png)
+![Example Demo](./public/Morra2.png)
 
 Welcome the MorraGame for CNA.
 
